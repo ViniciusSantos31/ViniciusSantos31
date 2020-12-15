@@ -33,6 +33,11 @@ Contact:
   
  </div>
  
+---
+title: "Column Orientation"
+output: flexdashboard::flex_dashboard
+---
+ 
  Column
 -------------------------------------
     
