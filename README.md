@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [ReactJS](https://reactjs.org/)
 - Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/)
 
+Contact:
+
+  ![Instagram](https://www.instagram.com/oiviniciussts/)
+
 ### Stats
 
 [![Vinicius Santos's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantos31&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
