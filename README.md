@@ -9,7 +9,7 @@
 
 Contact:
 
- [ ![Instagram](https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
+ [ ![Instagram](735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
 
 ### Stats
 
