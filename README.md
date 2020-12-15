@@ -9,7 +9,7 @@
 
 Contact:
 
- [ ![Instagram](https://image.flaticon.com/icons/png/512/174/174855.png, width=100)](https://www.instagram.com/oiviniciussts/)
+ [ ![Instagram](https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
 
 ### Stats
 
