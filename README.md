@@ -11,58 +11,20 @@
 Contact:
 
  [ ![Instagram](735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
- <div class="row">
- <div class="column">
+ 
   Techs: 
-  <ul>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</li>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript</li>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> ReactJS</li>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</li>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HMTL5</li>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3</li>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"> Sckit-Learn</li>
-   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> Jupyter        Notebook</li>
-  </ul>
-  </div>
-  <div class="column">
-   <h3>Stats<h3>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ViniciusSantos31&show_icons=true&count_private=true&include_all_commits=true"/></a>
-  </div>
- </ul>
-  
- </div>
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> ReactJS
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HMTL5
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"> Sckit-Learn
+   - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> Jupyter        Notebook
  
----
-title: "Column Orientation"
-output: flexdashboard::flex_dashboard
----
- 
- Column
--------------------------------------
-    
-### Chart 1
-    
-```{r}
-```
-   
-Column
--------------------------------------
-   
-### Chart 2
+### Stats 
 
-```{r}
-```   
- 
-### Chart 3
-    
-```{r}
-```
- 
-
-### 
-
-<!-- [![Vinicius Santos's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantos31&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Vinicius Santos's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantos31&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantos31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
