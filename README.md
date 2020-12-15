@@ -9,7 +9,7 @@
 
 Contact:
 
-  ![Instagram](https://camo.githubusercontent.com/e28a8c20d7234c273eecb82c386229475fe2ccf38c3ab06e026e861e480d4f61/68747470733a2f2f7777772e696e7374616772616d2e636f6d2f7374617469632f696d616765732f7765622f6d6f62696c655f6e61765f747970655f6c6f676f2e706e672f3733353134356366653061342e706e67)(https://www.instagram.com/oiviniciussts/)
+  ![Instagram](https://www.instagram.com/oiviniciussts/)
 
 ### Stats
 
