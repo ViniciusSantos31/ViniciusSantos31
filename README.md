@@ -9,7 +9,7 @@
 
 Contact:
 
- [ ![Instagram](https://mairacuryteam.com.br/wp-content/uploads/2019/05/logo-instagram-png-fundo-transparente13-1-1024x1024.png){: height="36px" width="36px"}](https://www.instagram.com/oiviniciussts/)
+ 
 
 ### Stats
 
