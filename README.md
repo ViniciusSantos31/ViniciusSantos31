@@ -5,7 +5,7 @@
 [instagram](https://eagletecnologia.com "Soluções Inteligentes para sua Empresa"){.exclude}
 <!-- - 🔭 I’m currently working on ... -->
 - 📚 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [ReactJS](https://reactjs.org/)
-- Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/) graduating in Data Science Artificial Intelligence.
+- <img width="20" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Graduating in Data Science and Artificial Intelligence by UFPBCurrently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/) graduating in Data Science Artificial Intelligence.
 
 Contact:
 
