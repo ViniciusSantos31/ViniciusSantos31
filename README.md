@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning TypeScript, ReactJS
-- Currently I study at the ![Federal University of Paraíba (UFPB)](https://www.ufpb.br/)
+- Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/)
 -->
