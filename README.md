@@ -7,3 +7,7 @@
 - 🌱 I’m currently learning TypeScript, ReactJS
 - Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/)
 
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantos31)](https://github.com/anuraghazra/github-readme-stats)
+
