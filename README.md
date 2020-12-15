@@ -11,7 +11,7 @@
 Contact:
 
  [ ![Instagram](735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
- <div style={{display: "flex}}>
+ <div display="flex">
  <div>
   Techs: 
   <ul>
