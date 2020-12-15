@@ -12,6 +12,7 @@ Contact:
 
  [ ![Instagram](735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
  <div>
+ <div>
  Techs: 
  <ul>
   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</li>
@@ -21,7 +22,10 @@ Contact:
   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HMTL5</li>
   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3</li>
   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"> Sckit-Learn</li>
-  <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> Jupyter Notebook</li>
+  <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> Jupyter Notebook</li></div>
+  <div>
+   [![Vinicius Santos's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantos31&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
  </ul>
   
  </div>
