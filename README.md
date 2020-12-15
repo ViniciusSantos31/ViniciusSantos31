@@ -8,7 +8,7 @@
 - Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/)
 
 Contact:
-
+  ! [Logo da Eagle Tecnologia](logo_principal.png){.text-left}
   ![Instagram](https://www.instagram.com/oiviniciussts/)
 
 ### Stats
