@@ -29,3 +29,29 @@ Contact:
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantos31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+title: "Column Orientation"
+output: flexdashboard::flex_dashboard
+---
+    
+Column
+-------------------------------------
+    
+### Chart 1
+    
+```{r}
+```
+   
+Column
+-------------------------------------
+   
+### Chart 2
+
+```{r}
+```   
+ 
+### Chart 3
+    
+```{r}
+```
+
