@@ -12,7 +12,7 @@ Contact:
 
  [ ![Instagram](735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
  
-  ##### Techs: 
+  ### Techs: 
         
 
 |     |      |
