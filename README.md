@@ -12,8 +12,7 @@ Contact:
 
  [ ![Instagram](735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
  
-  Techs: 
-  ---------- | -----------
+  ##### Techs: 
    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript <t />
    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript <br />
    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> ReactJS <t />
