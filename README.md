@@ -24,6 +24,7 @@ Contact:
    
 ------|------
 TECH1 | TECH2
+------|------
 ### Stats 
 
 [![Vinicius Santos's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantos31&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
