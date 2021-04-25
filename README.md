@@ -30,4 +30,6 @@ Contact:
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantos31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Programing Time
 
+[![Vincius Santos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusSantos31)](https://github.com/anuraghazra/github-readme-stats)
