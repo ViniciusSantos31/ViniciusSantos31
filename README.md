@@ -32,4 +32,4 @@ Contact:
 
 ### Programing Time
 
-[![Vincius Santos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusSantos31)](https://github.com/anuraghazra/github-readme-stats)
+[![Vincius Santos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusSantos31)](https://github.com/ViniciusSantos31/github-readme-stats)
