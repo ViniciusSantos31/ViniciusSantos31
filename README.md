@@ -30,9 +30,14 @@ Contact:
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantos31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- uses: Platane/snk@master
-  with:
-    github_user_name: ViniciusSantos31
-    gif_out_path: dist/github-contribution-grid-snake.gif
-    svg_out_path: dist/github-contribution-grid-snake.svg
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: platane
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
