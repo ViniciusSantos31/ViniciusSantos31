@@ -30,6 +30,9 @@ Contact:
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantos31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programing Time
+- uses: Platane/snk@master
+  with:
+    github_user_name: ViniciusSantos31
+    gif_out_path: dist/github-contribution-grid-snake.gif
+    svg_out_path: dist/github-contribution-grid-snake.svg
 
-[![Vincius Santos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusSantos31)](https://github.com/ViniciusSantos31/github-readme-stats)
