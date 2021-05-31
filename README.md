@@ -30,4 +30,4 @@ Contact:
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantos31&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ViniciusSantos31/ViniciusSantos31/blob/output/github-contribution-grid-snake.svg)
