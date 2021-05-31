@@ -38,6 +38,6 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: platane
+          github_user_name: ViniciusSantos31
           svg_out_path: dist/github-contribution-grid-snake.svg
 
