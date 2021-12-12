@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 📚 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [ReactJS](https://reactjs.org/)
 - <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/) graduating in Data Science & Artificial Intelligence.
-- <img width="18" src="https://icon-library.com/images/frontend-icon/frontend-icon-4.jpg"> Junior Development Front-End
+- <img width="18" src="https://icon-library.com/images/frontend-icon/frontend-icon-4.jpg"> Development Front-End
 - 📚 Currently interning at [WiseCare](https://www.wisecare.tech)
 
 Contact:
