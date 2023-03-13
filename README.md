@@ -4,10 +4,8 @@
 **ViniciusSantos31/ViniciusSantos31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 📚 I’m currently learning [Flutter](https://flutter.dev/?gclid=CjwKCAiAtdGNBhAmEiwAWxGcUtHIx7AoZnar6S3bX50-Wi81Aw4oRhJsuGu2nDl-2Zxzc9DQAXpa-xoCHDkQAvD_BwE&gclsrc=aw.ds)
 - <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/) graduating in Data Science & Artificial Intelligence.
 - <img width="18" src="https://icon-library.com/images/frontend-icon/frontend-icon-4.jpg"> Development Front-End
-- 📚 Currently interning at [WiseCare](https://www.wisecare.tech)
 
 Contact:
 
