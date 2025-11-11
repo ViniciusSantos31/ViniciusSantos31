@@ -1,29 +1,30 @@
-### Hi there 👋💻
+## 👋 Hey there! I'm Vinicius Santos 💻
 
-<!--
-**ViniciusSantos31/ViniciusSantos31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer | Passionate about building modern, performant, and intuitive web interfaces 🚀  
 
-<!-- - 🔭 I’m currently working on ... -->
-- <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Currently I study at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/) graduating in Data Science & Artificial Intelligence.
-- <img width="18" src="https://icon-library.com/images/frontend-icon/frontend-icon-4.jpg"> Development Front-End
+🎓 Graduated in **Data Science & Artificial Intelligence** from [Federal University of Paraíba (UFPB)](https://www.ufpb.br/).  
+🎯 Focused on **React**, **TypeScript**, and **UI/UX excellence**.  
+💡 Constantly learning and improving through real-world projects and modern development practices.
 
-Contact:
+---
 
- [ ![Instagram](735145cfe0a4.png)](https://www.instagram.com/oiviniciussts/)
- 
-  ### Techs: 
-        
+### 🛠️ Tech Stack
 
-|     |      |
-------|------
-| <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript | <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript |
-| <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> ReactJS | <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python: |
-| <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HMTL5 | <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3 |
-| <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"> Sckit-Learn | <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> Jupyter Notebook |
+| Front-end | Tools & Frameworks | Others |
+|------------|--------------------|---------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff) | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff) |
 
-<!-- ### Stats 
+---
 
-[![Vinicius Santos's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusSantos31&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
+### 🌍 Connect with Me
 
-<!-- ### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSantos31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos31/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oiviniciussts/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://viniciussantos.dev)
+
+---
+
+💬 *"Building digital experiences that connect design, performance, and creativity."*
